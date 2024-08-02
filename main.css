@@ -46,3 +46,9 @@ form {
 .checked {
     text-decoration: line-through;
 }
+
+ul {
+    font-size: 14px;
+    margin-left: 20px;
+    cursor: pointer;
+}
